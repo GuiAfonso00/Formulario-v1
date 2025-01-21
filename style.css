@@ -33,7 +33,7 @@
 
 body {
   background: var(--bg-ulr) no-repeat top center/cover;
-  height: 100vb;
+  height: 100vh;
 }
 
 body * {
@@ -178,6 +178,20 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 12px;
+
+
+}
+
+
+
+@media (min-width: 700px) {
+:root { 
+  --bg-ulr: url(assets/bg-desktop-Maior.jpg);
+}
+.light {
+  --bg-ulr: url(assets/bg-desktop-light-Maior.jpg);
+
+}
 
 
 }
