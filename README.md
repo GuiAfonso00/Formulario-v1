@@ -1,6 +1,6 @@
 <p align="center">
     <img alt="projetoGui"
-    src=".github/Capa_preview.png" width="100%">
+    src=".github/Capa_Preview.png" width="100%">
  </p>
 
 
